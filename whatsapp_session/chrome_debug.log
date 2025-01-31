@@ -1,0 +1,8 @@
+[25748:259:0125/131249.557082:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.265 (not a warning)
+[25748:259:0125/131249.840357:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[25748:259:0125/131250.721734:INFO:CONSOLE(156)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y8/r/rQ2P3YUUByB.js (156)
+[25748:259:0125/131255.115570:INFO:CONSOLE(71)] "ErrorUtils caught an error:
+
+Converting to a string will drop content data. Hash="undefined" Translation="{user_name} added {names}" Content="{"key":null,"ref":null,"props":{"contact":{"id":"918453860147@c.us","name":"Manprita ECE A Cr","shortName":"Manprita","type":"in","isContactSyncCompleted":1,"textStatusLastUpdateTime":-1,"syncToAddressbook":true},"showNotifyName":true,"elevatedPushNa" (type=object,Object)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs.", source: https://static.whatsapp.net/rsrc.php/v4/yV/r/UuR9wRCx8wi.js (71)
